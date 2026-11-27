@@ -47,6 +47,7 @@ ESP32 pins (all nodes): MISO 19, MOSI 23, SCK 18, CS 5, INT 21.
 | `host/{imm,kle,clm}/` | Python application layer: group key exchange, AES encryption, message counters, GUI |
 | `host/*/test_scripts/` | Latency test harness, plotting, and raw results (`results/*.csv`) |
 | `tests/` | J1939 multi-frame and maximum-size transfer tests |
+| `docs/fyp-report.pdf` | Final project report (May 2025): design, methodology, results |
 
 ## How it works (v1)
 
