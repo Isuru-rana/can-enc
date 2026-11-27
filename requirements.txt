@@ -1,0 +1,6 @@
+pyserial
+pycryptodome
+paho-mqtt<2.0
+numpy
+pandas
+matplotlib
